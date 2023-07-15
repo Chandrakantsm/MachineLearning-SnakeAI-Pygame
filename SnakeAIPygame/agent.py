@@ -1,3 +1,5 @@
+import sys
+sys.path.append("c:\Users\User4\AppData\Roaming\Python\Python39\Scripts")
 import torch
 import numpy as np
 import random
